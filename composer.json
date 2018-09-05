@@ -6,6 +6,9 @@
     "php": "^7.0"
   },
   "autoload": {
+    "psr-4": {
+      "EliPett\\MicrotimeConverter\\": "src/"
+    },
     "files": [
       "src/helpers.php"
     ]
