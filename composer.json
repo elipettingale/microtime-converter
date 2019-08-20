@@ -3,7 +3,7 @@
   "description": "A helper function to convert microtime to hours/minutes/seconds/milliseconds.",
   "type": "library",
   "require": {
-    "php": "^7.0"
+    "php": "^5.6"
   },
   "autoload": {
     "psr-4": {
